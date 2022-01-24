@@ -11,7 +11,7 @@ position:relative;
 padding-top: 100px;}
 
 .cloud1{position:absolute;
-right: 250px;
+right: 500px;
 top:50px;
 
 }
@@ -22,7 +22,7 @@ font-family:'Sacramento',cursive;
 }
 .cloud2{
   position: absolute;
-  left:250px;
+  left:500px;
   top:50px;
 }
 .i{
