@@ -11,8 +11,8 @@ position:relative;
 padding-top: 100px;}
 
 .cloud1{position:absolute;
-right: 200px;
-top:50px;
+right: 0;
+top:0;
 
 }
 h1{
@@ -22,8 +22,8 @@ font-family:'Sacramento',cursive;
 }
 .cloud2{
   position: absolute;
-  left:200px;
-  top:50px;
+  left:0;
+  top:0;
 }
 .i{
   height: 200px;
